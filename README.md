@@ -3,7 +3,7 @@ kata19-scala
 
 This problem is taken from [here](http://codekata.pragprog.com/2007/01/kata_nineteen_w.html)
 
-##Dependencies
+##Problem
 
 Write a program that solves word-chain puzzles.
 
